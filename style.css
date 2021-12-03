@@ -1,0 +1,40 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(253, 224, 224);
+    text-decoration: none;
+}
+
+a{
+    font-weight: bold;
+    pad: 1px;
+}
+
+a, .gray{
+         color: #a5a5a1;
+            
+    }
+    .gray:hover{
+        color: rgb(54, 81, 236);
+    } 
+p{
+    font-weight: 500;
+    
+}
+ 
+.row> p{
+    padding: 20px;
+    border-bottom: 1px solid rgb(212, 212, 212);
+    
+}
+
+.p-3{
+    color: white;
+    background: #4b228d;
+}
+    
